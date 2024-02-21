@@ -1,2 +1,2 @@
 # Project
-project repository for software engineering concepts course
+Trading Bot project repository for software engineering concepts course
